@@ -1,1 +1,1 @@
-# Video_chat_application
+# video-chatting-website
